@@ -1,0 +1,34 @@
+body {
+    background-color: antiquewhite;
+    margin-left: 10px;
+}
+
+#firstp {
+    border-style: inset;
+    border-color: goldenrod;
+}
+
+table,
+th,
+td,
+tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+th {
+    background-color: bisque;
+}
+
+img {
+    width: 500px;
+    height: 331px;
+    margin: 2px;
+    opacity: 0.8;
+}
+
+#firsth1 {
+    text-shadow: 2px 2px dimgray;
+    text-shadow: 2px -7px 3px dimgrey;
+}
